@@ -33,6 +33,18 @@ body {
 	line-height: 1;
 }
 
+/* Styles that I Added */
+
+
+
+
+
+
+
+
+
+/* End of my Styles*/
+
 ol, ul {
 	list-style: none;
 }
@@ -40,6 +52,8 @@ ol, ul {
 blockquote, q {
 	quotes: none;
 }
+
+
 
 	blockquote:before, blockquote:after, q:before, q:after {
 		content: '';
@@ -2567,12 +2581,14 @@ input, select, textarea {
 		.work-item h3 {
 			font-size: 1em;
 			margin: 0 0 0.5em 0;
+			
 		}
 
 		.work-item p {
-			font-size: 0.8em;
+			font-size: .9em;
 			line-height: 1.5em;
-			margin: 0;
+			margin: 12px;
+			color: #61677A
 		}
 
 /* Header */
