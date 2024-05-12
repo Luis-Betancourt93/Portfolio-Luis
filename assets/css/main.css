@@ -2079,6 +2079,7 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+		
 	}
 
 		.image:before {
@@ -2138,6 +2139,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.35em;
 			display: block;
+			height: 264px;
 		}
 
 		.image.left {
@@ -2822,6 +2824,7 @@ input, select, textarea {
 		box-shadow: 0 0.1em 0.15em 0 rgba(0, 0, 0, 0.15);
 		overflow: hidden;
 		padding-bottom: 3em;
+		
 	}
 
 		.poptrox-popup .loader {
